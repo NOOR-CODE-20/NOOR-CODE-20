@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Noor Fatima 👋
 
-<!--
-**NOOR-CODE-20/NOOR-CODE-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Lahore, Pakistan
 
-Here are some ideas to get you started:
+I'm a developer learning and building with Python, C++, and HTML/CSS/JS, with growing hands-on exposure to AWS and GCP cloud services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+
+Languages: Python, C++
+Web: HTML, CSS, JavaScript
+Cloud: AWS (basics), Google Cloud Platform (basics)
+Currently learning: Data Structures, Web Development, AI/ML
+
+
+📌 Projects
+
+coming soon!
+
+📫 Connect with me
+
+
+LinkedIn: https://linkedin.com/in/noor-fatima-nf2 
+
+⭐️ From NOOR-CODE-20
