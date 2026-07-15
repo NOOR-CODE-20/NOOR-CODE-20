@@ -15,7 +15,8 @@ Currently learning: Data Structures, Web Development, AI/ML
 
 📌 Projects
 
-coming soon!
+CityWheelsPK-Ride Hailing App
+Spotify Clone
 
 📫 Connect with me
 
